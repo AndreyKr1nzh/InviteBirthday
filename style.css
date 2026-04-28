@@ -175,7 +175,7 @@ p {
     
     /* 1. Указываем картинку и чистый цвет для «тела» блока */
     /* bottom center — прижмет закругление к низу, top center — узор к верху */
-    background-image: url('/imgs/блокОдеяния.png'); 
+    background-image: url('imgs/блокОдеяния.png'); 
     background-repeat: no-repeat;
     background-position: top center;
     background-size: 100% 100%; /* Растянет картинку на всю высоту контента */
@@ -340,7 +340,7 @@ button {
 .timer-section {
     width: 370px; /* Твои 10px отступов по бокам сохраняются */
     margin: 0 auto;
-    background: url('/imgs/блокТаймер.png') no-repeat top center;
+    background: url('imgs/блокТаймер.png') no-repeat top center;
     background-size: 100% 100%;
     padding: 170px 20px 60px; /* Подтягиваем текст выше к узору */
     box-sizing: border-box;
